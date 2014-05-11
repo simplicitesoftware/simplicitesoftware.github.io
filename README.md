@@ -1,4 +1,4 @@
-simplicitesoftware.github.io
-============================
+Simplicite Software
+===================
 
-Website
+Welcome to Simplicite Software @GitHub
